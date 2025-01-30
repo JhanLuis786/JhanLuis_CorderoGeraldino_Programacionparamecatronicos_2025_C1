@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738268426 source:c:\users\a19a19365\documents\arduino\programa 3.10\main.c
+	<stdio.h>
+	<math.h>
+
