@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1739476705 source:c:\users\a19a19365\documents\arduino\proyecto de calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
